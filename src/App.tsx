@@ -1,8 +1,13 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import {CompetitionEntity} from 'types';
 
 function App() {
+  const foobar: CompetitionEntity = {
+  name: ''
+  }
+
   return (
     <div className="App">
       <header className="App-header">
