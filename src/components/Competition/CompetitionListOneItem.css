@@ -1,0 +1,29 @@
+.competition {
+    box-shadow: 1px 1px 3px #454545;
+    flex-basis: 50%;
+    display: flex;
+    background-color: #bfd7aed9;
+    min-height: 80px;
+    margin: 15px;
+    border-radius: 5px;
+    padding: 10px 20px;
+    justify-content: space-between;
+}
+
+.competition_data {
+    border-radius: 0;
+    max-width: 45%;
+    display: block;
+    padding: 2px;
+    margin: 3px 3px;
+    align-self: center;
+}
+
+.competition_name {
+    font-size: 25px;
+}
+
+.competition_buttons {
+    display: block;
+    align-self: center;
+}
