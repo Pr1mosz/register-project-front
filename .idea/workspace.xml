@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="445931df-5373-4589-abd4-4e9f9b8b565e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
+    <list default="true" id="445931df-5373-4589-abd4-4e9f9b8b565e" name="Changes" comment="Added SingleCompetitionView with list of all Competitors on that view.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Competitor/CompetitorTable.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Competitor/CompetitorTable.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,12 +83,34 @@
       <workItem from="1699270842446" duration="12229000" />
       <workItem from="1699343527675" duration="17373000" />
       <workItem from="1699441681309" duration="16511000" />
-      <workItem from="1699515448639" duration="5273000" />
+      <workItem from="1699515448639" duration="5949000" />
     </task>
+    <task id="LOCAL-00001" summary="Added home page view of all competition.">
+      <option name="closed" value="true" />
+      <created>1699537082700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699537082700</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added SingleCompetitionView with list of all Competitors on that view.">
+      <option name="closed" value="true" />
+      <created>1699537306956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699537306956</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added home page view of all competition." />
+    <MESSAGE value="Added SingleCompetitionView with list of all Competitors on that view." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added SingleCompetitionView with list of all Competitors on that view." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
