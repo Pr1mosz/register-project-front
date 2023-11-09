@@ -10,7 +10,6 @@ interface Props {
 
 export const CompetitionListOneItem = (props: Props) => {
     return (
-
             <div className="competition">
                 <div className="competition_data">
                     <strong className="competition_name">{props.competition.name}</strong>
@@ -20,9 +19,10 @@ export const CompetitionListOneItem = (props: Props) => {
                     <Link to={`/${props.competition.id}`}>
                         <Btn text="Lista uczestników" />
                     </Link>
-                    <Btn text="Zapisz się"/>
+                    <Link to={`/${props.competition.id}/register`}>
+                        <Btn text="Zapisz się"/>
+                    </Link>
                 </div>
             </div>
-
     )
 }

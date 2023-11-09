@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 
 import { SimpleCompetitorEntity } from "types";
 import {CompetitorTableRow} from "./CompetitorTableRow";
