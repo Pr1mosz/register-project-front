@@ -14,7 +14,7 @@ export const SingleCompetitionView = () => {
             const res = await fetch(`http://localhost:3001/competition/${idOfCompetition}`);
             setCompetitionInfo(await res.json());
         })();
-    }, []);
+    }, [idOfCompetition]);
 
     if (competitionInfo === null) {
         return <Spinner/>;
