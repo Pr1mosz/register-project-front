@@ -6,7 +6,8 @@ import {Link} from "react-router-dom";
 export const Header = () => {
 
     return <header>
-            <h1>Zapisz się na zawody</h1>
+            <h1>PrimSave</h1>
+            <h2>Zapisy online</h2>
             <Link to="/">
                 <Btn text="Strona główna"/>
             </Link>
