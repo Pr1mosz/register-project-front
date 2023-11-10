@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="445931df-5373-4589-abd4-4e9f9b8b565e" name="Changes" comment="Changed color of spiner.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2XfINgTGmJbMrUaaN8P0NXSnaml" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/olech/Desktop/MEGAKURS_8/register-project/register-project-front/src/views&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\olech\\Desktop\\MEGAKURS_8\\register-project\\register-project-front\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\olech\Desktop\MEGAKURS_8\register-project\register-project-front\src\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\olech\Desktop\MEGAKURS_8\register-project\register-project-front\src\components\common\Btn" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="445931df-5373-4589-abd4-4e9f9b8b565e" name="Changes" comment="" />
+      <created>1699013668304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699013668304</updated>
+      <workItem from="1699013669690" duration="4387000" />
+      <workItem from="1699270842446" duration="12229000" />
+      <workItem from="1699343527675" duration="17373000" />
+      <workItem from="1699441681309" duration="16511000" />
+      <workItem from="1699515448639" duration="11227000" />
+      <workItem from="1699614643785" duration="4548000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added home page view of all competition.">
+      <option name="closed" value="true" />
+      <created>1699537082700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699537082700</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added SingleCompetitionView with list of all Competitors on that view.">
+      <option name="closed" value="true" />
+      <created>1699537306956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699537306956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added SingleCompetitionView with list of all Competitors on that view.">
+      <option name="closed" value="true" />
+      <created>1699537722977</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699537722977</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added form to Add new Competitor to Competition.">
+      <option name="closed" value="true" />
+      <created>1699537996773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1699537996773</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added form to Add new Competitor to Competition.">
+      <option name="closed" value="true" />
+      <created>1699538034890</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1699538034890</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added admin View and added form to add new Competition.">
+      <option name="closed" value="true" />
+      <created>1699538108884</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699538108884</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added not found View.">
+      <option name="closed" value="true" />
+      <created>1699615345696</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1699615345696</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Changed home page look.">
+      <option name="closed" value="true" />
+      <created>1699615538590</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1699615538590</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Changed color of spiner.">
+      <option name="closed" value="true" />
+      <created>1699621896016</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699621896016</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added home page view of all competition." />
+    <MESSAGE value="Added SingleCompetitionView with list of all Competitors on that view." />
+    <MESSAGE value="Added form to Add new Competitor to Competition." />
+    <MESSAGE value="Added admin View and added form to add new Competition." />
+    <MESSAGE value="Added not found View." />
+    <MESSAGE value="Changed home page look." />
+    <MESSAGE value="Changed color of spiner." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed color of spiner." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/CompetitionAdminView.tsx</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
